@@ -7,14 +7,15 @@ const myWorkstation = {
     WM: "PopOS",
     Theme: "Graphite",
     Icons: "Colliod-grey",
-    Cursor: "Grpahite-dark-nord-cursors"
+    Cursor: "Graphite-dark-nord-cursors"
 }
 
-val messageFromUser = "POPOS is awesome...."
+val messageFromUser = "PopOS is awesome...."
 ```
 
-## Config Preview
+## Home preview
 ![home](./pics/home.png)
 
+## Extension preview
 ![Extension](./pics/extension.png)
 

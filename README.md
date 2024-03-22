@@ -9,7 +9,7 @@ const myWorkstation = {
     Icons: "Colliod-grey",
     Cursor: "Graphite-dark-nord-cursors"
     Terminal: "Alacritty",
-    Editor: "neovim"
+    Editor: "neovim",
     NeovimColorScheme: "Oxocarbon"
 }
 

@@ -8,6 +8,9 @@ const myWorkstation = {
     Theme: "Graphite",
     Icons: "Colliod-grey",
     Cursor: "Graphite-dark-nord-cursors"
+    Terminal: "Alacritty",
+    Editor: "neovim"
+    NeovimColorScheme: "Oxocarbon"
 }
 
 val messageFromUser = "PopOS is awesome...."

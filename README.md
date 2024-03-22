@@ -19,3 +19,5 @@ val messageFromUser = "PopOS is awesome...."
 ## Extension preview
 ![Extension](./pics/extension.png)
 
+## Neovim preview
+![Neovim](./pics/nvim.png)
